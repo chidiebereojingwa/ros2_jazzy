@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/turtle_runtime_demo/turtle_runtime_demo.egg-info
+writing ../build/turtle_runtime_demo/turtle_runtime_demo.egg-info/PKG-INFO
+writing dependency_links to ../build/turtle_runtime_demo/turtle_runtime_demo.egg-info/dependency_links.txt
+writing entry points to ../build/turtle_runtime_demo/turtle_runtime_demo.egg-info/entry_points.txt
+writing requirements to ../build/turtle_runtime_demo/turtle_runtime_demo.egg-info/requires.txt
+writing top-level names to ../build/turtle_runtime_demo/turtle_runtime_demo.egg-info/top_level.txt
+writing manifest file '../build/turtle_runtime_demo/turtle_runtime_demo.egg-info/SOURCES.txt'
+reading manifest file '../build/turtle_runtime_demo/turtle_runtime_demo.egg-info/SOURCES.txt'
+writing manifest file '../build/turtle_runtime_demo/turtle_runtime_demo.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ojingwa/ros2_jazzy/src/build/turtle_runtime_demo/build
+creating /home/ojingwa/ros2_jazzy/src/build/turtle_runtime_demo/build/lib
+creating /home/ojingwa/ros2_jazzy/src/build/turtle_runtime_demo/build/lib/turtle_runtime_demo
+copying turtle_runtime_demo/turtle_control.py -> /home/ojingwa/ros2_jazzy/src/build/turtle_runtime_demo/build/lib/turtle_runtime_demo
+copying turtle_runtime_demo/__init__.py -> /home/ojingwa/ros2_jazzy/src/build/turtle_runtime_demo/build/lib/turtle_runtime_demo
+running install
+running install_lib
+creating /home/ojingwa/ros2_jazzy/src/install/turtle_runtime_demo/lib/python3.12/site-packages/turtle_runtime_demo
+copying /home/ojingwa/ros2_jazzy/src/build/turtle_runtime_demo/build/lib/turtle_runtime_demo/turtle_control.py -> /home/ojingwa/ros2_jazzy/src/install/turtle_runtime_demo/lib/python3.12/site-packages/turtle_runtime_demo
+copying /home/ojingwa/ros2_jazzy/src/build/turtle_runtime_demo/build/lib/turtle_runtime_demo/__init__.py -> /home/ojingwa/ros2_jazzy/src/install/turtle_runtime_demo/lib/python3.12/site-packages/turtle_runtime_demo
+byte-compiling /home/ojingwa/ros2_jazzy/src/install/turtle_runtime_demo/lib/python3.12/site-packages/turtle_runtime_demo/turtle_control.py to turtle_control.cpython-312.pyc
+byte-compiling /home/ojingwa/ros2_jazzy/src/install/turtle_runtime_demo/lib/python3.12/site-packages/turtle_runtime_demo/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/ojingwa/ros2_jazzy/src/install/turtle_runtime_demo/share/ament_index
+creating /home/ojingwa/ros2_jazzy/src/install/turtle_runtime_demo/share/ament_index/resource_index
+creating /home/ojingwa/ros2_jazzy/src/install/turtle_runtime_demo/share/ament_index/resource_index/packages
+copying resource/turtle_runtime_demo -> /home/ojingwa/ros2_jazzy/src/install/turtle_runtime_demo/share/ament_index/resource_index/packages
+copying package.xml -> /home/ojingwa/ros2_jazzy/src/install/turtle_runtime_demo/share/turtle_runtime_demo
+running install_egg_info
+Copying ../build/turtle_runtime_demo/turtle_runtime_demo.egg-info to /home/ojingwa/ros2_jazzy/src/install/turtle_runtime_demo/lib/python3.12/site-packages/turtle_runtime_demo-0.0.0-py3.12.egg-info
+running install_scripts
+Installing turtle_control script to /home/ojingwa/ros2_jazzy/src/install/turtle_runtime_demo/lib/turtle_runtime_demo
+writing list of installed files to '/home/ojingwa/ros2_jazzy/src/build/turtle_runtime_demo/install.log'

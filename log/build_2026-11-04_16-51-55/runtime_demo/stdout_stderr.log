@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/runtime_demo/runtime_demo.egg-info/PKG-INFO
+writing dependency_links to ../../build/runtime_demo/runtime_demo.egg-info/dependency_links.txt
+writing entry points to ../../build/runtime_demo/runtime_demo.egg-info/entry_points.txt
+writing requirements to ../../build/runtime_demo/runtime_demo.egg-info/requires.txt
+writing top-level names to ../../build/runtime_demo/runtime_demo.egg-info/top_level.txt
+reading manifest file '../../build/runtime_demo/runtime_demo.egg-info/SOURCES.txt'
+writing manifest file '../../build/runtime_demo/runtime_demo.egg-info/SOURCES.txt'
+running build
+running build_py
+copying runtime_demo/execution_demo.py -> /home/ojingwa/ros2_jazzy/build/runtime_demo/build/lib/runtime_demo
+running install
+running install_lib
+copying /home/ojingwa/ros2_jazzy/build/runtime_demo/build/lib/runtime_demo/execution_demo.py -> /home/ojingwa/ros2_jazzy/install/runtime_demo/lib/python3.12/site-packages/runtime_demo
+byte-compiling /home/ojingwa/ros2_jazzy/install/runtime_demo/lib/python3.12/site-packages/runtime_demo/execution_demo.py to execution_demo.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/ojingwa/ros2_jazzy/install/runtime_demo/lib/python3.12/site-packages/runtime_demo-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/runtime_demo/runtime_demo.egg-info to /home/ojingwa/ros2_jazzy/install/runtime_demo/lib/python3.12/site-packages/runtime_demo-0.0.0-py3.12.egg-info
+running install_scripts
+Installing execution_demo script to /home/ojingwa/ros2_jazzy/install/runtime_demo/lib/runtime_demo
+writing list of installed files to '/home/ojingwa/ros2_jazzy/build/runtime_demo/install.log'

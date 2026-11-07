@@ -1,0 +1,35 @@
+[2.295s] Invoking command in '/home/ojingwa/ros2_jazzy/src/runtime_demo': PYTHONPATH=/home/ojingwa/ros2_jazzy/build/runtime_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ojingwa/ros2_jazzy/install/runtime_demo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/runtime_demo build --build-base /home/ojingwa/ros2_jazzy/build/runtime_demo/build install --record /home/ojingwa/ros2_jazzy/build/runtime_demo/install.log --install-scripts $base/lib/runtime_demo --single-version-externally-managed install_data
+[2.816s] running egg_info
+[2.816s] creating ../../build/runtime_demo/runtime_demo.egg-info
+[2.846s] writing ../../build/runtime_demo/runtime_demo.egg-info/PKG-INFO
+[2.847s] writing dependency_links to ../../build/runtime_demo/runtime_demo.egg-info/dependency_links.txt
+[2.848s] writing requirements to ../../build/runtime_demo/runtime_demo.egg-info/requires.txt
+[2.848s] writing top-level names to ../../build/runtime_demo/runtime_demo.egg-info/top_level.txt
+[2.849s] writing manifest file '../../build/runtime_demo/runtime_demo.egg-info/SOURCES.txt'
+[2.921s] reading manifest file '../../build/runtime_demo/runtime_demo.egg-info/SOURCES.txt'
+[2.924s] writing manifest file '../../build/runtime_demo/runtime_demo.egg-info/SOURCES.txt'
+[2.932s] running build
+[2.932s] running build_py
+[2.933s] creating /home/ojingwa/ros2_jazzy/build/runtime_demo/build
+[2.933s] creating /home/ojingwa/ros2_jazzy/build/runtime_demo/build/lib
+[2.934s] creating /home/ojingwa/ros2_jazzy/build/runtime_demo/build/lib/runtime_demo
+[2.935s] copying runtime_demo/execution_demo.py -> /home/ojingwa/ros2_jazzy/build/runtime_demo/build/lib/runtime_demo
+[2.935s] copying runtime_demo/__init__.py -> /home/ojingwa/ros2_jazzy/build/runtime_demo/build/lib/runtime_demo
+[2.936s] running install
+[2.947s] running install_lib
+[2.984s] creating /home/ojingwa/ros2_jazzy/install/runtime_demo/lib/python3.12/site-packages/runtime_demo
+[2.984s] copying /home/ojingwa/ros2_jazzy/build/runtime_demo/build/lib/runtime_demo/execution_demo.py -> /home/ojingwa/ros2_jazzy/install/runtime_demo/lib/python3.12/site-packages/runtime_demo
+[2.985s] copying /home/ojingwa/ros2_jazzy/build/runtime_demo/build/lib/runtime_demo/__init__.py -> /home/ojingwa/ros2_jazzy/install/runtime_demo/lib/python3.12/site-packages/runtime_demo
+[2.986s] byte-compiling /home/ojingwa/ros2_jazzy/install/runtime_demo/lib/python3.12/site-packages/runtime_demo/execution_demo.py to execution_demo.cpython-312.pyc
+[2.988s] byte-compiling /home/ojingwa/ros2_jazzy/install/runtime_demo/lib/python3.12/site-packages/runtime_demo/__init__.py to __init__.cpython-312.pyc
+[2.988s] running install_data
+[2.989s] creating /home/ojingwa/ros2_jazzy/install/runtime_demo/share/ament_index
+[2.989s] creating /home/ojingwa/ros2_jazzy/install/runtime_demo/share/ament_index/resource_index
+[2.989s] creating /home/ojingwa/ros2_jazzy/install/runtime_demo/share/ament_index/resource_index/packages
+[2.990s] copying resource/runtime_demo -> /home/ojingwa/ros2_jazzy/install/runtime_demo/share/ament_index/resource_index/packages
+[2.990s] copying package.xml -> /home/ojingwa/ros2_jazzy/install/runtime_demo/share/runtime_demo
+[2.991s] running install_egg_info
+[3.025s] Copying ../../build/runtime_demo/runtime_demo.egg-info to /home/ojingwa/ros2_jazzy/install/runtime_demo/lib/python3.12/site-packages/runtime_demo-0.0.0-py3.12.egg-info
+[3.029s] running install_scripts
+[3.261s] writing list of installed files to '/home/ojingwa/ros2_jazzy/build/runtime_demo/install.log'
+[3.317s] Invoked command in '/home/ojingwa/ros2_jazzy/src/runtime_demo' returned '0': PYTHONPATH=/home/ojingwa/ros2_jazzy/build/runtime_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ojingwa/ros2_jazzy/install/runtime_demo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/runtime_demo build --build-base /home/ojingwa/ros2_jazzy/build/runtime_demo/build install --record /home/ojingwa/ros2_jazzy/build/runtime_demo/install.log --install-scripts $base/lib/runtime_demo --single-version-externally-managed install_data

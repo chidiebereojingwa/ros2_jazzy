@@ -1,0 +1,2 @@
+[console_scripts]
+turtle_control = turtle_runtime_demo.turtle_control:main

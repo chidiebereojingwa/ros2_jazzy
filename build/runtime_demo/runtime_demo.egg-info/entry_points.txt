@@ -1,0 +1,2 @@
+[console_scripts]
+execution_demo = runtime_demo.execution_demo:main
